@@ -343,5 +343,3 @@ Just a Copyright .. ^^ No further resources
 <p align="center">
 <img src="https://media.licdn.com/dms/image/v2/D5622AQE-nHbItG1Ptw/feedshare-shrink_1280/feedshare-shrink_1280/0/1730830185297?e=1733961600&v=beta&t=v4ShqP_9oc1wLpYxjXGeZqyxvv82A6oXBkWGimnO7Go">
 </p>
-
-- 
