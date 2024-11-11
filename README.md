@@ -19,6 +19,12 @@ Building on the skills acquired in PEN-200, OffSec’s PEN-300 course explores a
 
 This self-paced course culminates in a challenging exam, leading to the OffSec Experienced Penetration Tester (OSEP) certification. Achieving the OSEP certification distinguishes professionals with advanced penetration testing skills, making them highly sought-after experts in securing organizations from sophisticated threats.
 
+## My OSEP (PEN-300) Review:
+I provide an overview of the course content, my preparation strategy, and key takeaways from the exam process. If you're considering the OSEP certification or looking to deepen your expertise in advanced penetration testing, this review may offer valuable insights.
+
+- Read the full review here: https://lnkd.in/dmaViCzf
+
+
 # Official Link
 
 Link: https://www.offsec.com/courses/pen-300/
